@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:id="@+id/id_about"
+        android:title="@string/title_about">
+    </item>
+
+    <item  android:id="@+id/id_translator"
+        android:title="@string/title_translator" >
+    </item>
+
+    <item  android:id="@+id/id_countries"
+        android:title="@string/title_countries" >
+    </item>
+
+
+    <item  android:id="@+id/id_logout"
+        android:title="@string/title_logout">
+    </item>
+</menu>

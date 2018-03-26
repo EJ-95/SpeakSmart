@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">SpeakSmart</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_about">What is SpeakSmart?</string>
+    <string name="title_countries">Countries of the World</string>
+    <string name="title_translator">Go to translate</string>
+    <string name="title_logout">Logout Session</string>
+    <string name="welcome_login">Welcome! Please login to start translating your famous phrases!</string>
+    <string name="enter_email">Email</string>
+    <string name="email">emma@serc.ac.uk</string>
+    <string name="enter_password">Password</string>
+    <string name="password">admin</string>
+    <string name="login">Login</string>
+    <string name="show_password">Show Password?</string>
+    <string name="create_account">No account? Create One!</string>
+    <string name="create">Create Account</string>
+    <string name="about_app">SpeakSmart is your modern language translator for globtrotters who find it difficult to communicate with others from foreign backgrounds.
+                             \n\n Swipe >>></string>
+    <string name="instruction1">Your famous common phrases can be typed into our easy to use interface and translated to a language you understand simply by clicking our translate button.
+                                \n\n Swipe >>></string>
+    <string name="instruction2">Speak Now! Your phrases can be spoken out using Google speech. Go on have your adventure!</string>
+    <string name="phrase_title">Phrase</string>
+    <string name="textview_phrase">Phrase to Translate</string>
+    <string name="text_view2">Language to Translate to:</string>
+    <string name="text_view1">Language to Translate from:</string>
+    <string name="pre_translated_phrase">Translated Phrase</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+
+    <string-array name="english_phrases">
+        <item>Hello</item>
+        <item>Goodbye</item>
+        <item>Please</item>
+        <item>Thank you</item>
+        <item>How much?</item>
+        <item>Do you speak English?</item>
+        <item>I need a doctor</item>
+        <item>Where is the information centre?</item>
+    </string-array>
+
+    <string-array name="spanish_phrases">
+        <item>Hola</item>
+        <item>Adiós</item>
+        <item>Por favor</item>
+        <item>Gracias</item>
+        <item>Cuánto?</item>
+        <item>¿Habla usted Inglés?</item>
+        <item>Necesito un médico</item>
+        <item>¿Dónde está el centro de información?</item>
+    </string-array>
+
+    <string-array name="french_phrases">
+        <item>Bonjour</item>
+        <item>Au Revoir</item>
+        <item>S\'il vous plaît</item>
+        <item>Je vous remercie</item>
+        <item>Combien?</item>
+        <item>Parlez vous anglais?</item>
+        <item>j\'ai besoin d\'un docteur</item>
+        <item>Où se trouve le centre d\'information?</item>
+
+    </string-array>
+
+    <string-array name="languages_no_english">
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="languages_no_spanish">
+        <item>English</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="languages_no_french">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+
+    <string name="spanish_hello">Hola</string>
+
+    <string name="translate_phrase">Your translated phrase appears here…</string>
+</resources>
